@@ -9,7 +9,7 @@ public class Demo {
 //		System.out.println("Bye");
 		
 		System.out.println("ViratKohli");
-		int a = 10;
+		int a = 1000;
 		int b = 0;
 		try {
 		System.out.println(a/b);
